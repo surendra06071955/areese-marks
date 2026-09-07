@@ -1,0 +1,9 @@
+{
+  "appId": "com.areese.marks",
+  "appName": "AREESE Marks",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": false,
+    "backgroundColor": "#F6F7F4"
+  }
+}
